@@ -1,2 +1,2 @@
-# beta-notes
+# Beta Notes
 Notes from Beta Robots
